@@ -1,0 +1,4 @@
+if(index==stIndex)
+            // {
+            //     break;
+            // }

@@ -1,0 +1,3 @@
+;
+    ll.DeleteFromTail();
+    ll.DeleteFromHead();
